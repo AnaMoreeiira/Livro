@@ -1,11 +1,5 @@
 /**
- * ana carolina moreira da silva RA:2418169
- */
-
-
-/**
- *
- * @author naahs
+ * ana moreira 
  */
 public interface ValidaUsuario {
     
