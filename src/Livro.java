@@ -1,4 +1,4 @@
-// Ana Carolina Moreira da Silva-RA:2418169
+// Ana Moreira
 
 
 public abstract class Livro  {
