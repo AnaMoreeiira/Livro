@@ -1,5 +1,5 @@
 /**
- * Ana Carolina Moreira da silva -ra:2418169
+ * Ana Moreira
  */
 import javax.swing.JOptionPane;
 public class Excluir extends javax.swing.JFrame {
