@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author naahs
+ * @author Ana Moreira
  */
 public class ConsultaAluno extends javax.swing.JFrame {
 private static Disponivel livro = new Disponivel(); 
